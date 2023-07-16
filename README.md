@@ -16,11 +16,3 @@ I'm currently pursuing a B.tech at National Institute of Technology in Computer 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak91168&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
