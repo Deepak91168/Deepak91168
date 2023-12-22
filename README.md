@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Deepak91168&icon=3&color=9)](https://visitcount.itsvg.in)
 # ✨ About Me:
 I'm currently pursuing a B.tech at National Institute of Technology in Computer Science and Engineering. I'm a web developer, as well as a Linux enthusiast and have command over Problem solving.
 
