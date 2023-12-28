@@ -35,7 +35,6 @@ I'm a versatile B.Tech student passionate about problem-solving and development.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</br>
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ## 🌐 Reach Me
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepak__9116)
@@ -45,9 +44,10 @@ I'm a versatile B.Tech student passionate about problem-solving and development.
 
 
 ## 📊 GitHub Stats
-![](https://github-profile-trophy.vercel.app/?username=Deepak91168&theme=radical&no-frame=false&no-bg=true&margin-w=10)
+
+![](https://github-profile-trophy.vercel.app/?username=Deepak91168&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 ![](https://github-readme-stats.vercel.app/api?username=Deepak91168&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak91168&theme=jolly&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak91168&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=center&theme=tokyonight)
